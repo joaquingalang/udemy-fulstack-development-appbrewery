@@ -20,9 +20,10 @@ footer {
 }
 
 .tile-image {
+  width: 300px;
   height: 200px;
-  float: left;
   margin-right: 50px;
+  float: left;
 }
 
 .card {
