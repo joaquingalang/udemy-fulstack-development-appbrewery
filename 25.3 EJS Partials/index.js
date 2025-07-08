@@ -21,7 +21,7 @@ app.get("/about", (req, res) => {
 });
 
 app.get("/contact", (req, res) => {
-  res.render("about.ejs");
+  res.render("contact.ejs");
 });
 
 app.listen(port, () => {
